@@ -1,0 +1,7 @@
+main: xyz.wibn.wibnutils.WiBnUtils
+name: WiBnUtils
+version: 1.0
+author: HappyAreaBean
+website: https://github.com/HappyAreaBean/WibnUtils
+softdepend:
+  - EazyNick
